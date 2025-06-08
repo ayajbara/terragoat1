@@ -449,6 +449,9 @@ If you need direct support you can contact us at [info@bridgecrew.io](mailto:inf
 | 194 | CKV_GCP_3     | /gcp/networks.tf              | google_compute_firewall.allow_all                    | Ensure Google compute firewall ingress does not allow unrestricted rdp access                                                                                                                            | https://docs.bridgecrew.io/docs/bc_gcp_networking_2                                                                                          |
 
 
+
+
+
 ---
 
 
